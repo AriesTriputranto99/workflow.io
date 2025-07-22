@@ -21,3 +21,23 @@
   * Run URL: https://api.github.com/repos/AriesTriputranto/Policy-Chrome-Root-Program-/tindakan/jalankan/16243197057
   * Job URL (API): https://api.github.com/repos/AriesTriputranto/Policy-Chrome-Root-Program-/actions/jobs/45862278542
   * 
+
+{ 
+  {
+  
+  "config" : {
+       "content_type" : " json " ,
+       "insecure_ssl" : " 0 " ,
+       "url" : " https://api.github.com/repos/ariestriputranto/chrome-program-root/hook "},
+  }
+}
+
+ {
+   "lisensi" : {
+       "kunci" : " apache-2.0 " ,
+       "nama" : " Lisensi Apache 2.0 " ,
+       "spdx_id" : " Apache-2.0 " ,
+       "url" : " https://api.github.com/licenses/apache-2.0 " ,
+       "node_id" : " MDc6TGljZW5zZTI= "
+     }
+  }
