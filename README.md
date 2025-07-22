@@ -44,6 +44,12 @@
     cache: # opsional
     # Digunakan untuk menentukan jalur ke berkas dependensi: package-lock.json, yarn.lock, dll. Mendukung karakter pengganti atau daftar nama berkas untuk menyimpan beberapa dependensi dalam cache.
     jalur-ketergantungan-cache: # opsional
+
+##  git add .
+   git pull origin maingit push origin maingit 
+   commit -m "Add new feature to home page"
+
+<img width="1080" height="1676" alt="Screenshot_20250722-140345~3" src="https://github.com/user-attachments/assets/a8fc90af-617b-44bd-9037-08479b14d0ac" />
           
 { 
   {
